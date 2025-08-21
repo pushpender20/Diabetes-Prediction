@@ -16,4 +16,4 @@ It uses **Machine Learning (Scikit-learn)** and is deployed using **Streamlit**.
 - Scikit-learn
 - Streamlit
 
-## 📂 Project Structure
+
